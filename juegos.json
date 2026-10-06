@@ -1,0 +1,308 @@
+[
+  {
+    "juego_id": 1,
+    "ano": "1896 Verano",
+    "temporada": 1896,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 2,
+    "ano": "1900 Verano",
+    "temporada": 1900,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 3,
+    "ano": "1904 Verano",
+    "temporada": 1904,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 4,
+    "ano": "1906 Verano",
+    "temporada": 1906,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 5,
+    "ano": "1908 Verano",
+    "temporada": 1908,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 6,
+    "ano": "1912 Verano",
+    "temporada": 1912,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 7,
+    "ano": "1920 Verano",
+    "temporada": 1920,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 8,
+    "ano": "1924 Invierno",
+    "temporada": 1924,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 9,
+    "ano": "1924 Verano",
+    "temporada": 1924,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 10,
+    "ano": "1928 Invierno",
+    "temporada": 1928,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 11,
+    "ano": "1928 Verano",
+    "temporada": 1928,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 12,
+    "ano": "1932 Invierno",
+    "temporada": 1932,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 13,
+    "ano": "1932 Verano",
+    "temporada": 1932,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 14,
+    "ano": "1936 Invierno",
+    "temporada": 1936,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 15,
+    "ano": "1936 Verano",
+    "temporada": 1936,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 16,
+    "ano": "1948 Invierno",
+    "temporada": 1948,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 17,
+    "ano": "1948 Verano",
+    "temporada": 1948,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 18,
+    "ano": "1952 Invierno",
+    "temporada": 1952,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 19,
+    "ano": "1952 Verano",
+    "temporada": 1952,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 20,
+    "ano": "1956 Invierno",
+    "temporada": 1956,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 21,
+    "ano": "1956 Verano",
+    "temporada": 1956,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 22,
+    "ano": "1960 Invierno",
+    "temporada": 1960,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 23,
+    "ano": "1960 Verano",
+    "temporada": 1960,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 24,
+    "ano": "1964 Invierno",
+    "temporada": 1964,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 25,
+    "ano": "1964 Verano",
+    "temporada": 1964,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 26,
+    "ano": "1968 Invierno",
+    "temporada": 1968,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 27,
+    "ano": "1968 Verano",
+    "temporada": 1968,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 28,
+    "ano": "1972 Invierno",
+    "temporada": 1972,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 29,
+    "ano": "1972 Verano",
+    "temporada": 1972,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 30,
+    "ano": "1976 Invierno",
+    "temporada": 1976,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 31,
+    "ano": "1976 Verano",
+    "temporada": 1976,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 32,
+    "ano": "1980 Invierno",
+    "temporada": 1980,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 33,
+    "ano": "1980 Verano",
+    "temporada": 1980,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 34,
+    "ano": "1984 Invierno",
+    "temporada": 1984,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 35,
+    "ano": "1984 Verano",
+    "temporada": 1984,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 36,
+    "ano": "1988 Invierno",
+    "temporada": 1988,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 37,
+    "ano": "1988 Verano",
+    "temporada": 1988,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 38,
+    "ano": "1992 Invierno",
+    "temporada": 1992,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 39,
+    "ano": "1992 Verano",
+    "temporada": 1992,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 40,
+    "ano": "1994 Invierno",
+    "temporada": 1994,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 41,
+    "ano": "1996 Verano",
+    "temporada": 1996,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 42,
+    "ano": "1998 Invierno",
+    "temporada": 1998,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 43,
+    "ano": "2000 Verano",
+    "temporada": 2000,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 44,
+    "ano": "2002 Invierno",
+    "temporada": 2002,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 45,
+    "ano": "2004 Verano",
+    "temporada": 2004,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 46,
+    "ano": "2006 Invierno",
+    "temporada": 2006,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 47,
+    "ano": "2008 Verano",
+    "temporada": 2008,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 48,
+    "ano": "2010 Invierno",
+    "temporada": 2010,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 49,
+    "ano": "2012 Verano",
+    "temporada": 2012,
+    "ciudad": "Verano"
+  },
+  {
+    "juego_id": 50,
+    "ano": "2014 Invierno",
+    "temporada": 2014,
+    "ciudad": "Invierno"
+  },
+  {
+    "juego_id": 51,
+    "ano": "2016 Verano",
+    "temporada": 2016,
+    "ciudad": "Verano"
+  }
+]

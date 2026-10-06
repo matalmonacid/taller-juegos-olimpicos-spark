@@ -1,0 +1,101 @@
+resultado_id,medalla,deportista_id,nombre,genero,edad,altura,peso,equipo_id,equipo,sigla,cod_evento,evento,deporte_id,juego_id,edicion,temporada,año,IMC,Descripción_sexo
+1,NA,1,A Dijiang,1,24,180.0,80.0,199,China,CHN,1,Basketball Men's Basketball,1,39,1992 Verano,Verano,1992,24.69,Hombre
+2,NA,2,A Lamusi,1,23,170.0,60.0,199,China,CHN,2,Judo Men's Extra-Lightweight,2,49,2012 Verano,Verano,2012,20.76,Hombre
+3,NA,3,Gunnar Nielsen Aaby,1,24,0.0,0.0,273,Denmark,DEN,3,Football Men's Football,3,7,1920 Verano,Verano,1920,,Hombre
+4,Gold,4,Edgar Lindenau Aabye,1,34,0.0,0.0,278,Denmark/Sweden,SWE,4,Tug-Of-War Men's Tug-Of-War,4,2,1900 Verano,Verano,1900,,Hombre
+5,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,5,Speed Skating Women's 500 metres,5,36,1988 Invierno,Invierno,1988,23.96,Mujer
+6,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,6,Speed Skating Women's 1000 metres,5,36,1988 Invierno,Invierno,1988,23.96,Mujer
+7,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,5,Speed Skating Women's 500 metres,5,38,1992 Invierno,Invierno,1992,23.96,Mujer
+8,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,6,Speed Skating Women's 1000 metres,5,38,1992 Invierno,Invierno,1992,23.96,Mujer
+9,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,5,Speed Skating Women's 500 metres,5,40,1994 Invierno,Invierno,1994,23.96,Mujer
+10,NA,5,Christine Jacoba Aaftink,2,21,185.0,82.0,705,Netherlands,NED,6,Speed Skating Women's 1000 metres,5,40,1994 Invierno,Invierno,1994,23.96,Mujer
+11,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,7,Cross Country Skiing Men's 10 kilometres,6,38,1992 Invierno,Invierno,1992,21.22,Hombre
+12,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,8,Cross Country Skiing Men's 50 kilometres,6,38,1992 Invierno,Invierno,1992,21.22,Hombre
+13,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,9,Cross Country Skiing Men's 10/15 kilometres Pursuit,6,38,1992 Invierno,Invierno,1992,21.22,Hombre
+14,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,10,Cross Country Skiing Men's 4 x 10 kilometres Relay,6,38,1992 Invierno,Invierno,1992,21.22,Hombre
+15,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,7,Cross Country Skiing Men's 10 kilometres,6,40,1994 Invierno,Invierno,1994,21.22,Hombre
+16,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,11,Cross Country Skiing Men's 30 kilometres,6,40,1994 Invierno,Invierno,1994,21.22,Hombre
+17,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,9,Cross Country Skiing Men's 10/15 kilometres Pursuit,6,40,1994 Invierno,Invierno,1994,21.22,Hombre
+18,NA,6,Per Knut Aaland,1,31,188.0,75.0,1096,United States,USA,10,Cross Country Skiing Men's 4 x 10 kilometres Relay,6,40,1994 Invierno,Invierno,1994,21.22,Hombre
+19,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,7,Cross Country Skiing Men's 10 kilometres,6,38,1992 Invierno,Invierno,1992,21.5,Hombre
+20,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,8,Cross Country Skiing Men's 50 kilometres,6,38,1992 Invierno,Invierno,1992,21.5,Hombre
+21,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,9,Cross Country Skiing Men's 10/15 kilometres Pursuit,6,38,1992 Invierno,Invierno,1992,21.5,Hombre
+22,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,10,Cross Country Skiing Men's 4 x 10 kilometres Relay,6,38,1992 Invierno,Invierno,1992,21.5,Hombre
+23,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,7,Cross Country Skiing Men's 10 kilometres,6,40,1994 Invierno,Invierno,1994,21.5,Hombre
+24,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,11,Cross Country Skiing Men's 30 kilometres,6,40,1994 Invierno,Invierno,1994,21.5,Hombre
+25,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,9,Cross Country Skiing Men's 10/15 kilometres Pursuit,6,40,1994 Invierno,Invierno,1994,21.5,Hombre
+26,NA,7,John Aalberg,1,31,183.0,72.0,1096,United States,USA,10,Cross Country Skiing Men's 4 x 10 kilometres Relay,6,40,1994 Invierno,Invierno,1994,21.5,Hombre
+27,NA,8,Cornelia Cor Aalten Strannood ,2,18,168.0,0.0,705,Netherlands,NED,12,Athletics Women's 100 metres,7,13,1932 Verano,Verano,1932,,Mujer
+28,NA,8,Cornelia Cor Aalten Strannood ,2,18,168.0,0.0,705,Netherlands,NED,13,Athletics Women's 4 x 100 metres Relay,7,13,1932 Verano,Verano,1932,,Mujer
+29,NA,9,Antti Sami Aalto,1,26,186.0,96.0,350,Finland,FIN,14,Ice Hockey Men's Ice Hockey,8,44,2002 Invierno,Invierno,2002,27.75,Hombre
+30,NA,10,Einar Ferdinand Einari Aalto,1,26,0.0,0.0,350,Finland,FIN,15,Swimming Men's 400 metres Freestyle,9,19,1952 Verano,Verano,1952,,Hombre
+31,NA,11,Jorma Ilmari Aalto,1,22,182.0,76.5,350,Finland,FIN,11,Cross Country Skiing Men's 30 kilometres,6,32,1980 Invierno,Invierno,1980,23.1,Hombre
+32,NA,12,Jyri Tapani Aalto,1,31,172.0,70.0,350,Finland,FIN,16,Badminton Men's Singles,10,43,2000 Verano,Verano,2000,23.66,Hombre
+33,NA,13,Minna Maarit Aalto,2,30,159.0,55.5,350,Finland,FIN,17,Sailing Women's Windsurfer,11,41,1996 Verano,Verano,1996,21.95,Mujer
+34,NA,13,Minna Maarit Aalto,2,30,159.0,55.5,350,Finland,FIN,17,Sailing Women's Windsurfer,11,43,2000 Verano,Verano,2000,21.95,Mujer
+35,NA,14,Pirjo Hannele Aalto Mattila ,2,32,171.0,65.0,350,Finland,FIN,18,Biathlon Women's 7.5 kilometres Sprint,12,40,1994 Invierno,Invierno,1994,22.23,Mujer
+36,NA,15,Arvo Ossian Aaltonen,1,22,0.0,0.0,350,Finland,FIN,19,Swimming Men's 200 metres Breaststroke,9,6,1912 Verano,Verano,1912,,Hombre
+37,NA,15,Arvo Ossian Aaltonen,1,22,0.0,0.0,350,Finland,FIN,20,Swimming Men's 400 metres Breaststroke,9,6,1912 Verano,Verano,1912,,Hombre
+38,Bronze,15,Arvo Ossian Aaltonen,1,22,0.0,0.0,350,Finland,FIN,19,Swimming Men's 200 metres Breaststroke,9,7,1920 Verano,Verano,1920,,Hombre
+39,Bronze,15,Arvo Ossian Aaltonen,1,22,0.0,0.0,350,Finland,FIN,20,Swimming Men's 400 metres Breaststroke,9,7,1920 Verano,Verano,1920,,Hombre
+40,NA,15,Arvo Ossian Aaltonen,1,22,0.0,0.0,350,Finland,FIN,19,Swimming Men's 200 metres Breaststroke,9,9,1924 Verano,Verano,1924,,Hombre
+41,Bronze,16,Juhamatti Tapio Aaltonen,1,28,184.0,85.0,350,Finland,FIN,14,Ice Hockey Men's Ice Hockey,8,50,2014 Invierno,Invierno,2014,25.11,Hombre
+42,Bronze,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,21,Gymnastics Men's Individual All-Around,13,17,1948 Verano,Verano,1948,20.9,Hombre
+43,Gold,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,22,Gymnastics Men's Team All-Around,13,17,1948 Verano,Verano,1948,20.9,Hombre
+44,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,23,Gymnastics Men's Floor Exercise,13,17,1948 Verano,Verano,1948,20.9,Hombre
+45,Gold,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,24,Gymnastics Men's Horse Vault,13,17,1948 Verano,Verano,1948,20.9,Hombre
+46,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,25,Gymnastics Men's Parallel Bars,13,17,1948 Verano,Verano,1948,20.9,Hombre
+47,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,26,Gymnastics Men's Horizontal Bar,13,17,1948 Verano,Verano,1948,20.9,Hombre
+48,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,27,Gymnastics Men's Rings,13,17,1948 Verano,Verano,1948,20.9,Hombre
+49,Gold,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,28,Gymnastics Men's Pommelled Horse,13,17,1948 Verano,Verano,1948,20.9,Hombre
+50,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,21,Gymnastics Men's Individual All-Around,13,19,1952 Verano,Verano,1952,20.9,Hombre
+51,Bronze,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,22,Gymnastics Men's Team All-Around,13,19,1952 Verano,Verano,1952,20.9,Hombre
+52,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,23,Gymnastics Men's Floor Exercise,13,19,1952 Verano,Verano,1952,20.9,Hombre
+53,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,24,Gymnastics Men's Horse Vault,13,19,1952 Verano,Verano,1952,20.9,Hombre
+54,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,25,Gymnastics Men's Parallel Bars,13,19,1952 Verano,Verano,1952,20.9,Hombre
+55,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,26,Gymnastics Men's Horizontal Bar,13,19,1952 Verano,Verano,1952,20.9,Hombre
+56,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,27,Gymnastics Men's Rings,13,19,1952 Verano,Verano,1952,20.9,Hombre
+57,NA,17,Paavo Johannes Aaltonen,1,28,175.0,64.0,350,Finland,FIN,28,Gymnastics Men's Pommelled Horse,13,19,1952 Verano,Verano,1952,20.9,Hombre
+58,NA,18,Timo Antero Aaltonen,1,31,189.0,130.0,350,Finland,FIN,29,Athletics Men's Shot Put,7,43,2000 Verano,Verano,2000,36.39,Hombre
+59,NA,19,Win Valdemar Aaltonen,1,54,0.0,0.0,350,Finland,FIN,30,"Art Competitions Mixed Sculpturing, Unknown Event",14,17,1948 Verano,Verano,1948,,Hombre
+60,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,31,Alpine Skiing Men's Downhill,15,38,1992 Invierno,Invierno,1992,27.44,Hombre
+61,Gold,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,32,Alpine Skiing Men's Super G,15,38,1992 Invierno,Invierno,1992,27.44,Hombre
+62,Bronze,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,33,Alpine Skiing Men's Giant Slalom,15,38,1992 Invierno,Invierno,1992,27.44,Hombre
+63,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,34,Alpine Skiing Men's Slalom,15,38,1992 Invierno,Invierno,1992,27.44,Hombre
+64,Silver,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,31,Alpine Skiing Men's Downhill,15,40,1994 Invierno,Invierno,1994,27.44,Hombre
+65,Bronze,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,32,Alpine Skiing Men's Super G,15,40,1994 Invierno,Invierno,1994,27.44,Hombre
+66,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,33,Alpine Skiing Men's Giant Slalom,15,40,1994 Invierno,Invierno,1994,27.44,Hombre
+67,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,34,Alpine Skiing Men's Slalom,15,40,1994 Invierno,Invierno,1994,27.44,Hombre
+68,Silver,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,35,Alpine Skiing Men's Combined,15,40,1994 Invierno,Invierno,1994,27.44,Hombre
+69,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,31,Alpine Skiing Men's Downhill,15,42,1998 Invierno,Invierno,1998,27.44,Hombre
+70,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,32,Alpine Skiing Men's Super G,15,42,1998 Invierno,Invierno,1998,27.44,Hombre
+71,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,33,Alpine Skiing Men's Giant Slalom,15,42,1998 Invierno,Invierno,1998,27.44,Hombre
+72,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,35,Alpine Skiing Men's Combined,15,42,1998 Invierno,Invierno,1998,27.44,Hombre
+73,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,31,Alpine Skiing Men's Downhill,15,44,2002 Invierno,Invierno,2002,27.44,Hombre
+74,Gold,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,32,Alpine Skiing Men's Super G,15,44,2002 Invierno,Invierno,2002,27.44,Hombre
+75,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,33,Alpine Skiing Men's Giant Slalom,15,44,2002 Invierno,Invierno,2002,27.44,Hombre
+76,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,34,Alpine Skiing Men's Slalom,15,44,2002 Invierno,Invierno,2002,27.44,Hombre
+77,Gold,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,35,Alpine Skiing Men's Combined,15,44,2002 Invierno,Invierno,2002,27.44,Hombre
+78,NA,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,31,Alpine Skiing Men's Downhill,15,46,2006 Invierno,Invierno,2006,27.44,Hombre
+79,Gold,20,Kjetil Andr Aamodt,1,20,176.0,85.0,742,Norway,NOR,32,Alpine Skiing Men's Super G,15,46,2006 Invierno,Invierno,2006,27.44,Hombre
+80,Gold,21,Ragnhild Margrethe Aamodt,2,27,163.0,0.0,742,Norway,NOR,36,Handball Women's Handball,16,47,2008 Verano,Verano,2008,,Mujer
+81,NA,22,Andreea Aanei,2,22,170.0,125.0,861,Romania,ROU,37,Weightlifting Women's Super-Heavyweight,17,51,2016 Verano,Verano,2016,43.25,Mujer
+82,NA,23,Fritz Aanes,1,22,187.0,89.0,742,Norway,NOR,38,"Wrestling Men's Light-Heavyweight, Greco-Roman",18,43,2000 Verano,Verano,2000,25.45,Hombre
+83,NA,23,Fritz Aanes,1,22,187.0,89.0,742,Norway,NOR,38,"Wrestling Men's Light-Heavyweight, Greco-Roman",18,45,2004 Verano,Verano,2004,25.45,Hombre
+84,NA,24,Nils Egil Aaness,1,24,0.0,0.0,742,Norway,NOR,39,Speed Skating Men's 500 metres,5,22,1960 Invierno,Invierno,1960,,Hombre
+85,NA,24,Nils Egil Aaness,1,24,0.0,0.0,742,Norway,NOR,40,"Speed Skating Men's 1,500 metres",5,22,1960 Invierno,Invierno,1960,,Hombre
+86,NA,24,Nils Egil Aaness,1,24,0.0,0.0,742,Norway,NOR,40,"Speed Skating Men's 1,500 metres",5,24,1964 Invierno,Invierno,1964,,Hombre
+87,Silver,25,Alf Lied Aanning,1,24,0.0,0.0,742,Norway,NOR,41,"Gymnastics Men's Team All-Around, Free System",13,7,1920 Verano,Verano,1920,,Hombre
+88,NA,26,Agnes Erika Aanonsen Eyde ,2,17,169.0,65.0,742,Norway,NOR,42,Luge Women's Singles,19,34,1984 Invierno,Invierno,1984,22.76,Mujer
+89,NA,27,Johan Aantjes,1,26,0.0,0.0,705,Netherlands,NED,43,Water Polo Men's Water Polo,20,35,1984 Verano,Verano,1984,,Hombre
+90,NA,28,JanErik Aarberg,1,43,170.0,77.0,742,Norway,NOR,44,Sailing Mixed Three Person Keelboat,11,27,1968 Verano,Verano,1968,26.64,Hombre
+91,NA,28,JanErik Aarberg,1,43,170.0,77.0,742,Norway,NOR,44,Sailing Mixed Three Person Keelboat,11,29,1972 Verano,Verano,1972,26.64,Hombre
+92,Bronze,29,Willemien Aardenburg,2,22,0.0,0.0,705,Netherlands,NED,45,Hockey Women's Hockey,21,37,1988 Verano,Verano,1988,,Mujer
+93,Silver,30,Pepijn Aardewijn,1,26,189.0,72.0,705,Netherlands,NED,46,Rowing Men's Lightweight Double Sculls,22,41,1996 Verano,Verano,1996,20.16,Hombre
+94,NA,30,Pepijn Aardewijn,1,26,189.0,72.0,705,Netherlands,NED,46,Rowing Men's Lightweight Double Sculls,22,43,2000 Verano,Verano,2000,20.16,Hombre
+95,NA,31,Evald rma rman ,1,24,174.0,70.0,331,Estonia,EST,47,Athletics Men's Pole Vault,7,15,1936 Verano,Verano,1936,23.12,Hombre
+96,NA,32,Olav Augunson Aarnes,1,23,0.0,0.0,742,Norway,NOR,48,Athletics Men's High Jump,7,6,1912 Verano,Verano,1912,,Hombre
+97,NA,33,Mika Lauri Aarnikka,1,24,187.0,76.0,350,Finland,FIN,49,Sailing Men's Two Person Dinghy,11,39,1992 Verano,Verano,1992,21.73,Hombre
+98,NA,33,Mika Lauri Aarnikka,1,24,187.0,76.0,350,Finland,FIN,49,Sailing Men's Two Person Dinghy,11,41,1996 Verano,Verano,1996,21.73,Hombre
+99,NA,34,Jamale Djamel Aarrass Ahrass ,1,30,187.0,76.0,362,France,FRA,50,"Athletics Men's 1,500 metres",7,49,2012 Verano,Verano,2012,21.73,Hombre
+100,NA,35,Dagfinn Sverre Aarskog,1,24,190.0,98.0,742,Norway,NOR,51,Bobsleigh Men's Four,23,42,1998 Invierno,Invierno,1998,27.15,Hombre
