@@ -2,7 +2,7 @@
 
 **Análisis de Grandes Volúmenes de Datos · Parte I**
 
-**Grupo 4: Matías Almonacid y Carolina Castro**
+**Matías Almonacid y Carolina Castro**
 
 En este taller trabajamos con datos de los Juegos Olímpicos usando PySpark. Partimos de archivos separados de deportistas, equipos, resultados, eventos y ediciones. Los revisamos, unimos la información y calculamos las estadísticas de medallas, edad, altura y sexo.
 
